@@ -1,0 +1,71 @@
+```gitignore
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build files
+dist/
+build/
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.log
+
+# VS Code settings
+.vscode/
+
+# Environment variables
+.env
+
+# Mac system files
+.DS_Store
+Save the file (Ctrl + S)
+
+✅ 2. Create the README.md file (if not already)
+Same process:
+
+Right-click → New File → README.md
+
+Paste this content:
+
+markdown
+Copy code
+# Fitness Tracker 💪
+
+This is a simple Fitness Tracker web app built using HTML, CSS, and JavaScript.
+
+## Features
+
+- Track workouts
+- Record calories
+- Basic UI with responsive layout
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript (Vanilla)
+
+## Getting Started
+
+1. Clone the repo
+2. Open `index.html` in your browser
+
+---
+
+👩‍💻 Created by [vaishali0001](https://github.com/vaishali0001)
+✅ 3. Now add, commit, and push:
+In terminal:
+
+bash
+Copy code
+git add .gitignore README.md
+git commit -m "Add .gitignore and README"
+git push
+Let me know once you’ve done this, and I’ll help you set up any other files (like package.json, live site link, etc.) 😊
